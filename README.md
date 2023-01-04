@@ -1,4 +1,6 @@
 #  Third-Party APIs: Weather Forcast
+https://jalilyosufi.github.io/Weather-forecast/
+git 
 Simple weather forecast application that allow user to search for weather forecast of any city or country. This app will run in the browser and feature dynamically update HTML and CSS powered by jQuery.
 
 #  User Story
